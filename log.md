@@ -13,3 +13,10 @@
 想法：Rust 写链表,这很难，需要学习太多知识，我这边研究了一部分，明天继续研究。
 
 工作链接：[简单链表](https://github.com/wsafight/rust-100-days/blob/main/code/lists/src/first.rs)
+
+## 第 3 天：2023 年 7 月 12 日
+今天的进展： 学习 Rust 类型系统
+
+想法：TODO
+
+工作链接：TODO
